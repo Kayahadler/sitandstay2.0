@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg-blue {
+	background-color: #C4DDEF
+}
+.centered {
+    text-align: center; 
+    align: center;
+    float: center;
+}
